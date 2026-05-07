@@ -1,5 +1,5 @@
-# mac_cleaner
-a powerful macOS script . Cleaning, speedup, optimization in a click. Get it now! Best cleaning utility for your Mac. Remove junk, caches, large hidden files
+A powerful, free, and open-source way to clean and speed up a macOS system directly from the terminal is by using Mole. It is a command-line tool that automatically removes application leftovers, clears caches, and reclaims disk space, making it a popular free alternative to paid optimization tools
+by saving the following into a .sh file and making it executable (chmod +x mac_cleaner.sh)
 
 # Run IN CMD 
 

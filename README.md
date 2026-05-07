@@ -1,7 +1,8 @@
 A powerful, free, and open-source way to clean and speed up a macOS system directly from the terminal is by using Mole. It is a command-line tool that automatically removes application leftovers, clears caches, and reclaims disk space, making it a popular free alternative to paid optimization tools
-by saving the following into a .sh file and making it executable (chmod +x mac_cleaner.sh)
+by saving the following into a .sh file 
 
-# Run IN CMD 
+
+# Run IN CMD making it executable (chmod +x mac_cleaner.sh)
 
 chmod +x mac_cleaner.sh
 
